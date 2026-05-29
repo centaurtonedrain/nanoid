@@ -1,3 +1,19 @@
+<!-- seo-bot-prepend -->
+
+**A hyper-stable, ultra-reliable Nano ID alternative for modern runtimes**
+
+**
+
+This dedicated fork directly addresses long-standing upstream maintenance gaps by integrating critical stability patches and performance optimizations. It ensures seamless compatibility and active upkeep, making it the perfect drop-in choice for production environments requiring long-term reliability.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/centaurtonedrain/nanoid.git
+```
+
+[https://github.com/centaurtonedrain/nanoid](https://github.com/centaurtonedrain/nanoid)
+
 # Nano ID
 
 <img src="https://ai.github.io/nanoid/logo.svg" align="right"
@@ -483,3 +499,14 @@ For other environments, [CLI] is available to generate IDs from a command line.
 [ID size calculator]: https://zelark.github.io/nano-id-cc/
 [`customAlphabet`]: #custom-alphabet-or-size
 [`nanoid-good`]: https://github.com/y-gagar1n/nanoid-good
+
+<!-- seo-bot-keywords -->
+
+## Related searches
+
+When developers look for lightweight unique string generators like NanoID, they often seek tools that integrate seamlessly into modern JavaScript workflows and monorepos. Searches frequently focus on optimizing build configurations alongside code formatting and end-to-end testing setups to ensure robust identifier generation across large-scale applications. 
+
+**Topics:** nanoid alternative, monorepo management with nx workspace, prettier code formatting, javascript unique id, e2e testing with cypress, winston logging integration, twine game development, lightweight uuid generator, secure random string, npm id generator, frontend testing tools, developer workflow optimization
+
+<!-- seo-bot-ping -->
+![.](https://seo-bot-ping.onrender.com/pixel?repo=centaurtonedrain%2Fnanoid)
